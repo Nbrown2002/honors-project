@@ -1,7 +1,9 @@
 Noah Brown - Honors Project (CIS-376-01)
-# Main Goal:  This project consists of creating a mock social hub/website for
- students at the University of North Alabama. 
-# Secondary Goals: Create five different pages
+# Main Goal:  
+This project consists of creating a mock social hub/website for
+students at the University of North Alabama. 
+# Secondary Goals 
+Create five different pages
 
 # Page Descriptions 
 * Home: Index Page, serves as the main "hub" to access other pages
